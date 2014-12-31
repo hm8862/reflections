@@ -1,0 +1,7 @@
+Lesson 2 Reflections
+
+What happens when you initialize a repository? Why do you need to do it?
+
+1. Creates a git repository
+2. Allows git to start tracking file history
+3. Creates a hidden .git directory containing files required to track history.
